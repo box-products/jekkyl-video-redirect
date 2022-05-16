@@ -10,3 +10,39 @@
   to = "https://us02web.zoom.us/j/6202114445?pwd=ODFjK1pwekxISUlCMFNSN3U1OFpWdz09"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/emary"
+  to = "https://us02web.zoom.us/j/5778694275?pwd=cnFXK2xGMW94WEtudis2SEcwWmh6UT09"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/david"
+  to = "https://us02web.zoom.us/j/4219501679?pwd=N0QxcVJzYWUwVk53Y1I3K2pKbHlDUT09"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blake"
+  to = "https://us02web.zoom.us/j/7180208207?pwd=WWV3THZCRDRoS255THFxVEk0WFBWdz09"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/casey"
+  to = "https://us02web.zoom.us/j/6363552253?pwd=dS9UZm1rUmlwWlU5a0ViM3lOQTNSUT09"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/casey"
+  to = "https://us02web.zoom.us/j/8241022627?pwd=VsFQuZSDQW7LT4KGaGsCC5fhaBJumN.1"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/ebonie"
+  to = "https://us02web.zoom.us/j/8979097057?pwd=V1RyNzNGeDk1Y2V0K3ppbWZhRktDdz09"
+  status = 301
+  force = true
