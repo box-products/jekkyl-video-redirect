@@ -53,8 +53,8 @@
   force = true
 
 [[redirects]]
-  from = "/ebonie"
-  to = "https://us02web.zoom.us/j/8979097057?pwd=V1RyNzNGeDk1Y2V0K3ppbWZhRktDdz09"
+  from = "/jessica"
+  to = "https://us02web.zoom.us/j/8059333957?pwd=cHdsMk1sUEhCbXFnbmZFcENLQVVzUT09"
   status = 301
   force = true
 
@@ -75,3 +75,10 @@
   to = "https://us02web.zoom.us/j/3805633903?pwd=Um5OOWpuUnQwbCtuTHFRanRIZ1RQdz09"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/kiera"
+  to = "https://us02web.zoom.us/j/4642021059?pwd=Q1FhM1U2ZFc5WUpEMEtPWDgrM3cvQT09"
+  status = 301
+  force = true
+
