@@ -53,32 +53,43 @@
   force = true
 
 [[redirects]]
+  from = "/Jayson"
+  to = "https://us02web.zoom.us/j/8312324794?pwd=R015V3VMdFJIaHJ6bTVIMWthN1VGUT09"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/jayson"
+  to = "https://us02web.zoom.us/j/8312324794?pwd=R015V3VMdFJIaHJ6bTVIMWthN1VGUT09"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/Jason"
+  to = "https://us02web.zoom.us/j/8312324794?pwd=R015V3VMdFJIaHJ6bTVIMWthN1VGUT09"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/Jessica"
+  to = "https://us02web.zoom.us/j/8059333957?pwd=cHdsMk1sUEhCbXFnbmZFcENLQVVzUT09"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/jessica"
   to = "https://us02web.zoom.us/j/8059333957?pwd=cHdsMk1sUEhCbXFnbmZFcENLQVVzUT09"
   status = 301
   force = true
 
 [[redirects]]
-  from = "/Lynnette"
-  to = "https://us02web.zoom.us/j/3805633903?pwd=Um5OOWpuUnQwbCtuTHFRanRIZ1RQdz09"
+  from = "/Victoria"
+  to = "https://us02web.zoom.us/j/4756970469?pwd=Zk9QelZXdGZqa204MVFTSlZNVkMxZz09"
   status = 301
   force = true
 
 [[redirects]]
-  from = "/lynnette"
-  to = "https://us02web.zoom.us/j/3805633903?pwd=Um5OOWpuUnQwbCtuTHFRanRIZ1RQdz09"
+  from = "/victoria"
+  to = "https://us02web.zoom.us/j/4756970469?pwd=Zk9QelZXdGZqa204MVFTSlZNVkMxZz09"
   status = 301
   force = true
-
-[[redirects]]
-  from = "/lynette"
-  to = "https://us02web.zoom.us/j/3805633903?pwd=Um5OOWpuUnQwbCtuTHFRanRIZ1RQdz09"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/kiera"
-  to = "https://us02web.zoom.us/j/4642021059?pwd=Q1FhM1U2ZFc5WUpEMEtPWDgrM3cvQT09"
-  status = 301
-  force = true
-
